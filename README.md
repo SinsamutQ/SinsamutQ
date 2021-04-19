@@ -1,5 +1,3 @@
-would you kindly
-
 -  would you kindly
 
 <!---
