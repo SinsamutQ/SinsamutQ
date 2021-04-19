@@ -1,6 +1,6 @@
--  no god
--  no king
--  only human
+would you kindly
+
+-  would you kindly
 
 <!---
 SinsamutQ/SinsamutQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
