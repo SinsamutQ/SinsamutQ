@@ -2,7 +2,7 @@
 -  Ah Shit 
 -  Here We Go Again
 
-![giphy](https://user-images.githubusercontent.com/73060136/117612889-26d78e80-b190-11eb-9afa-9dfa8e84481f.gif)
+https://user-images.githubusercontent.com/73060136/117613449-268bc300-b191-11eb-8daf-d71e4c65fd2b.mp4
 
 <!---
 SinsamutQ/SinsamutQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
