@@ -1,4 +1,4 @@
-# Hi there :wave:	
+# Hi there , I'm SinsamutQ :wave:	
 
 ![programming](https://user-images.githubusercontent.com/73060136/119861850-0b1b0900-bf42-11eb-8d06-47d8121aa40f.gif)
  
