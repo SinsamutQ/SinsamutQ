@@ -9,7 +9,7 @@
 - Ah Shit 
 - Here We Go Again
 
-![Snapshot_Testing_React_Components_with_Jest_-_Semaphore_CI](https://user-images.githubusercontent.com/73060136/120881824-0cad9680-c5fe-11eb-8e0a-ad68c84a7813.png)
+![Snapshot_Testing_React_Components_with_Jest_-_Semaphore_CI](https://user-images.githubusercontent.com/73060136/120882173-1932ee80-c600-11eb-8061-be0344147737.png)
 
 <!---
 SinsamutQ/SinsamutQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
