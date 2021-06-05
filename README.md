@@ -1,3 +1,5 @@
+![Snapshot_Testing_React_Components_with_Jest_-_Semaphore_CI](https://user-images.githubusercontent.com/73060136/120881824-0cad9680-c5fe-11eb-8e0a-ad68c84a7813.png)
+
 # Hi there :wave:	
 
 ![tumblr_puc2j2wa1N1tgo74ho1_1280](https://user-images.githubusercontent.com/73060136/119864644-07d54c80-bf45-11eb-89e0-bdb1355ea1e6.gif)
