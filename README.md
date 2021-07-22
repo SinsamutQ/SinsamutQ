@@ -6,8 +6,8 @@
 
 # chilling and learning :speech_balloon:	
 
-<p>- Ah Shit </p>
-<p>- Here We Go Again </p>
+- Ah Shit 
+- Here We Go Again 
 
   <br>
   <p><strong>Looks like something went wrong!</strong></p>
