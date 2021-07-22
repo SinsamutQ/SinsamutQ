@@ -9,6 +9,12 @@
 - Ah Shit 
 - Here We Go Again
 
+  <br>
+  <p><strong>Looks like something went wrong!</strong></p>
+  
+  <p>We track these errors automatically, but if the problem persists feel free to contact us. In the meantime, try refreshing.</p>
+  
+
 <!---
 SinsamutQ/SinsamutQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
