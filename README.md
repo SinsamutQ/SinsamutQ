@@ -1,6 +1,5 @@
 # chilling and learning :speech_balloon:	
 
-# looking for more knowledge :fire:
 - Ah Shit 
 - Here We Go Again
 
