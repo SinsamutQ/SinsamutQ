@@ -4,10 +4,10 @@
   
 ![22b22287602523 5dbd29081561d](https://user-images.githubusercontent.com/73060136/126536911-d608cdc1-63d3-46ff-bab7-f791103c7110.gif)
 
-# chilling and learning :speech_balloon:	
+<p># chilling and learning :speech_balloon:	</p>
 
-- Ah Shit 
-- Here We Go Again
+<p>- Ah Shit </p>
+<p>- Here We Go Again </p>
 
   <br>
   <p><strong>Looks like something went wrong!</strong></p>
